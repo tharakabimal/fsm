@@ -1,5 +1,5 @@
-# IOC v 0.9.5
-Fuel station management [![IOC](https://img.shields.io/badge/IOC-prototype-green.svg)]() 
+# FSM
+Fuel station management
 
 <img src="http://i.imgur.com/NLUgrak.png?1">
 
